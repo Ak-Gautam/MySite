@@ -12,8 +12,8 @@ body, html {
 }
 
 body {
-    background-color: aquamarine;
-    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(./image/02.png);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 7%, rgba(152,36,235,1) 45%, rgba(0,212,255,1) 92%);
     height: 100vh;
     background-size: cover;
     background-position: center;
