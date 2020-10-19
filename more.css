@@ -51,7 +51,6 @@ header {
     grid-area: head;
     font-style: normal;
     background-color: coral;
-    background-image: url(./image/03.png);
     background-size: cover;
     background-position: center;
 }
