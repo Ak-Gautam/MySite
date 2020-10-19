@@ -126,12 +126,12 @@ main h3 span{
 }
 
 main p {
+    padding: 25px;
     text-align: center;
     font-size: 20px;
     text-align: left;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(245, 248, 248);
     margin: 0;
-    padding-right: 500px;
-    padding-left: 25px;
+    max-width: 1500px;
 }
