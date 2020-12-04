@@ -58,7 +58,6 @@ header {
 
 footer {
     grid-area: footer;
-    text-align: right;
 }
 
 header h1 {
