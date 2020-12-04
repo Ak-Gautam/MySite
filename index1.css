@@ -32,8 +32,8 @@ ul li{
 ul li a{
     text-decoration: none;
     color: #fff;
-    padding: 0.3vw 2vw;
-    border: 0.8vw solid transparent;
+    padding: 0.2vw 1.8vw;
+    border: 0.6vw solid transparent;
 }
 
 ul li.active a{
