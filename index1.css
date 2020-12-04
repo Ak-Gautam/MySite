@@ -80,8 +80,8 @@ header h1 {
 }
 
 .btn{
-    border: 2vw  solid #fff;
-    padding: 10vw 30vw;
+    border: 0.2vw  solid #fff;
+    padding: 1vw 3vw;
     color: #fff;
     background-color: #000;
     text-decoration: none;
