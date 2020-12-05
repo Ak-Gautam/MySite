@@ -23,7 +23,7 @@ body {
 ul{
     float: right;
     list-style-type: none;
-    margin-top: 2vw;
+    margin-top: 1.8vw;
 }
 ul li{
     display: inline-block;
